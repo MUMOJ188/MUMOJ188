@@ -12,16 +12,6 @@
   <strong>Full-Stack Development • AI Applications • API Integration • Cloud & DevOps</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MUMOJ188"><img src="https://img.shields.io/badge/GitHub-MUMOJ188-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/john-mumo37"><img src="https://img.shields.io/badge/LinkedIn-john--mumo37-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mumoj37@gmail.com"><img src="https://img.shields.io/badge/Email-mumoj37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MUMOJ188&style=for-the-badge&color=007ACC" alt="profile views" />
-</p>
-
 ---
 
 ### 🚀 About Me
