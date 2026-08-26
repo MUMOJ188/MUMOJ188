@@ -190,9 +190,14 @@ Open to collaboration on **Software Development**, **AI & Automation**, **API & 
 
 ## 📊 GitHub Stats
 
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUMOJ188&show_icons=true&theme=nord&hide_border=true" alt="John's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUMOJ188&layout=compact&theme=nord&hide_border=true" alt="John's Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUMOJ188&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MUMOJ188&theme=tokyonight" alt="Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MUMOJ188&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
