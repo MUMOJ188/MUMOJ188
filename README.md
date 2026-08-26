@@ -6,9 +6,9 @@
   <strong>Software Developer • AI • APIs • Integration</strong>
 </p>
 
-<p align="center" style="font-family: 'Dancing Script', cursive; color: #1D4ED8; font-size: 22px;">
-  <em>Building modern software systems, intelligent applications, and connected enterprise solutions</em>
-</p>
+<h3 align="center" style="color: #1D4ED8;">
+  Building modern software systems, intelligent applications, and connected enterprise solutions
+</h3>
 
 <p align="center">
   <strong>Full-Stack Development • AI Applications • API Integration • Cloud & DevOps</strong>
