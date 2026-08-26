@@ -190,7 +190,4 @@ Open to collaboration on **Software Development**, **AI & Automation**, **API & 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUMOJ188&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUMOJ188&layout=compact&theme=nord&hide_border=true" alt="Most Used Languages" height="165" />
-</p>
+
