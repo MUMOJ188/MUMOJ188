@@ -1,4 +1,18 @@
-<h1 align="center">  Hi 👋, I'm <span style="color:#1D4ED8;">John</span></h1> <p align="center">  <strong>Software Developer • AI • APIs • Integration</strong></p> <h3 align="center">Building modern software systems, intelligent applications, and connected enterprise solutions</h3> <p align="center">  <strong>Full-Stack Development • AI Applications • API Integration • Cloud & DevOps</strong></p
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#d63384;">John</span>
+</h1>
+
+<p align="center">
+  <strong>Software Developer • AI • APIs • Integration</strong>
+</p>
+
+<p align="center" style="font-family: 'Dancing Script', cursive; color: #1D4ED8; font-size: 22px;">
+  <em>Building modern software systems, intelligent applications, and connected enterprise solutions</em>
+</p>
+
+<p align="center">
+  <strong>Full-Stack Development • AI Applications • API Integration • Cloud & DevOps</strong>
+</p>
 
 ---
 
