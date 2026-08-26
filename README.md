@@ -188,16 +188,14 @@ Open to collaboration on **Software Development**, **AI & Automation**, **API & 
 
 ---
 
-## 📊 GitHub Stats
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUMOJ188&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUMOJ188&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MUMOJ188&theme=tokyonight" alt="Repositories Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MUMOJ188&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MUMOJ188&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MUMOJ188&theme=tokyonight" width="45%" />
 </p>
-
