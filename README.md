@@ -191,6 +191,6 @@ Open to collaboration on **Software Development**, **AI & Automation**, **API & 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUMOJ188&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUMOJ188&layout=compact&theme=nord&hide_border=true" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MUMOJ188&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MUMOJ188&layout=compact&theme=nord&hide_border=true" alt="Most Used Languages" height="165" />
 </p>
