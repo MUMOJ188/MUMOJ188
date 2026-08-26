@@ -104,12 +104,16 @@ I connect disparate systems and services to ensure reliable data exchange:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![Python AI](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **APIs & Integration**
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![M-Pesa / Daraja](https://img.shields.io/badge/M--Pesa_Daraja-4CAF50?style=for-the-badge)
+![Email APIs](https://img.shields.io/badge/Email_APIs-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 **Databases**
 
