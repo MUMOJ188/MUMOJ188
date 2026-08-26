@@ -1,16 +1,4 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#1D4ED8;">John</span>
-</h1>
-
-<p align="center">
-  <strong>Software Developer • AI • APIs • Integration</strong>
-</p>
-
-<h3 align="center">Building modern software systems, intelligent applications, and connected enterprise solutions</h3>
-
-<p align="center">
-  <strong>Full-Stack Development • AI Applications • API Integration • Cloud & DevOps</strong>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+John" alt="Hi, I'm John" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=700&height=40&lines=Building+modern+software+systems%2C+intelligent+applications%2C+and+connected+enterprise+solutions" alt="Building modern software systems" /> </p> <p align="center"> <strong> <span style="color:#EC4899;">Software Developer</span> • <span style="color:#1D4ED8;">AI</span> • <span style="color:#10B981;">APIs</span> • <span style="color:#F59E0B;">Integration</span> </strong> </p> <p align="center"> <strong> <span style="color:#EC4899;">Full-Stack Development</span> • <span style="color:#1D4ED8;">AI Applications</span> • <span style="color:#10B981;">API Integration</span> • <span style="color:#F59E0B;">Cloud & DevOps</span> </strong> </p>
 
 ---
 
