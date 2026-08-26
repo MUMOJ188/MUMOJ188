@@ -188,6 +188,11 @@ Open to collaboration on **Software Development**, **AI & Automation**, **API & 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUMOJ188&show_icons=true&theme=nord&hide_border=true" alt="John's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUMOJ188&layout=compact&theme=nord&hide_border=true" alt="John's Top Languages" height="165" />
+</p>
 
 
