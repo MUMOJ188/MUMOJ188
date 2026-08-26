@@ -185,3 +185,12 @@ Open to collaboration on **Software Development**, **AI & Automation**, **API & 
   <a href="https://www.linkedin.com/in/john-mumo37"><img src="https://img.shields.io/badge/LinkedIn-john--mumo37-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mumoj37@gmail.com"><img src="https://img.shields.io/badge/Email-mumoj37%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUMOJ188&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUMOJ188&layout=compact&theme=nord&hide_border=true" alt="Most Used Languages" height="165" />
+</p>
